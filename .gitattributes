@@ -1,0 +1,7 @@
+*.ipynb linguist-vendored
+*.ipynb linguist-documentation
+*.ipynb linguist-detectable=false
+*.ipynb -linguist-language
+
+*.py linguist-detectable=true
+*.py linguist-language=Python
